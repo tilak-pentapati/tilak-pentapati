@@ -1,4 +1,5 @@
-### Hi there 👋
+### Masters of Science in Geographic Data Science
+### University of Liverpool, UK
 
 <!--
 **tilak-pentapati/tilak-pentapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
